@@ -1,0 +1,526 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"col",
+				"color-gold"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"center",
+				"centerY"
+			],
+			[
+				"stand",
+				"standard-block-margin"
+			],
+			[
+				"small",
+				"small-block-margin"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 92,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/main.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 319.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/gschomburg/Documents/Personal/htmls/bookofspells",
+		"/Users/gschomburg/Documents/Personal/htmls/bookofspells/src",
+		"/Users/gschomburg/Documents/Personal/htmls/bookofspells/src/js"
+	],
+	"file_history":
+	[
+		"/Users/gschomburg/Documents/Personal/jbakse/assignment_paint/brushes/shakeyhands/shakeyhands.js",
+		"/Users/gschomburg/Documents/Personal/jbakse/assignment_paint/index.html",
+		"/Users/gschomburg/Documents/Personal/jbakse/assignment_paint/brushes/fastfurious/fastfurious.js",
+		"/Users/gschomburg/Documents/Personal/jbakse/assignment_paint/brushes/fastfurious/fastfurious.svg",
+		"/Users/gschomburg/Documents/Personal/jbakse/assignment_paint/brushes/test2/test2.js",
+		"/Users/gschomburg/Documents/Personal/jbakse/assignment_paint/brushes/test/test.js",
+		"/Users/gschomburg/Documents/Personal/jbakse/assignment_paint/brushes/paint/paint.js",
+		"/Users/gschomburg/Desktop/fall2015_lists/devinslist_1.csv",
+		"/Users/gschomburg/Desktop/fall2015_lists/Mailer- BNS.csv",
+		"/Users/gschomburg/Documents/Jobs/Accenture/AccentureCMS/notes/todo.todo",
+		"/Users/gschomburg/Documents/Jobs/Accenture/AccentureCMS/docs/content_structure.md",
+		"/Users/gschomburg/Desktop/output8_client_log.txt",
+		"/Users/gschomburg/Desktop/output8_server_log.txt",
+		"/Users/gschomburg/Desktop/outputs7_log.txt",
+		"/Users/gschomburg/Desktop/outputc7_log.txt",
+		"/Users/gschomburg/Desktop/outputc6_log.txt",
+		"/Users/gschomburg/Desktop/outputs6_log.txt",
+		"/Users/gschomburg/Desktop/outputc5_log.txt",
+		"/Users/gschomburg/Desktop/outputc4_log.txt",
+		"/Users/gschomburg/Desktop/outputs5_log.txt",
+		"/Users/gschomburg/Desktop/outputs4_log.txt",
+		"/Users/gschomburg/Documents/Jobs/Accenture/AccentureCMS/docs/todo.todo",
+		"/Users/gschomburg/Documents/Garbage/p5_template/sketch.js",
+		"/Users/gschomburg/Desktop/image_tests/test_textfile.txt",
+		"/Users/gschomburg/Desktop/index.html",
+		"/Users/gschomburg/Desktop/customData.json",
+		"/Users/gschomburg/Documents/Jobs/sketching2015/dev/parallax/css/styles.css",
+		"/Users/gschomburg/Documents/Jobs/sketching2015/dev/parallax/js/main.js",
+		"/Users/gschomburg/Documents/Jobs/sketching2015/dev/parallax/index.html",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/src/javascript/main.js",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/src/index.html",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/src/css/main.scss",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/src/customData.json",
+		"/Users/gschomburg/Desktop/bosside.txt",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/src/css/owl.misssmith.scss",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/gulp/config.js",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/gulp/tasks/copyfiles.js",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/gulp/tasks/markup.js",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/gulp/tasks/images.js",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/gulp/tasks/watch.js",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/gulp/tasks/default.js",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/src/test_folder/test.html",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/src/css/_reset.scss",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/build/css/main.css",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/src/style/main.scss",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/gulp/tasks/jade.js",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/package.json",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/gulp/util/bundleLogger.js",
+		"/Users/gschomburg/Documents/Jobs/MissSmith/dev/gulp/tasks/language.js",
+		"/Users/gschomburg/Documents/Jobs/sketching2015/dev/webgl_tests/assets/biosphere.obj",
+		"/Users/gschomburg/Documents/Jobs/sketching2015/dev/bioshpere.obj",
+		"/Users/gschomburg/Documents/Jobs/sketching2015/dev/webgl_tests/assets/bioshpere.obj",
+		"/Users/gschomburg/Documents/Jobs/sketching2015/dev/sketchingwebgl.sublime-workspace",
+		"/Users/gschomburg/Documents/Jobs/sketching2015/dev/webgl_tests/assets/bioshpere.mtl",
+		"/Users/gschomburg/Desktop/raising_spirit/Assets/Prototypes/Proto1_spectrum/MicInputer.cs",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/low_variables/default_site/content_about_people.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/low_variables/default_site/content_home.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/src/styles/main.less",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/src/styles/content.less",
+		"/Users/gschomburg/Desktop/paperjs-v0/examples/Animated/AnimatedStar.html",
+		"/Users/gschomburg/Desktop/paperjs-v0/examples/_mine/Lines.html",
+		"/Users/gschomburg/Desktop/js/myScript.js",
+		"/Users/gschomburg/Desktop/test.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/low_variables/default_site/content_about_jobs.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/low_variables/default_site/content_about_company.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/search.group/no_results.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/content.group/404.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/low_variables/default_site/navigation.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/content.group/error.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/low_variables/default_site/content_contact.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/layouts.group/_default.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/projects.group/_collection.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/projects.group/_index.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/projects.group/_detail.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/news.group/_detail.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/low_variables/default_site/social_buttons.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/low_variables/default_site/project_summary.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/directors.group/_reel.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/directors.group/_detail.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/src/scripts/main.coffee",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/bnssites.sublime-project",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/system/expressionengine/config/profiler.php",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/system/codeigniter/system/database/drivers/postgre/postgre_result.php",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/package.json",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/content.group/_home.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/templates/default_site/news.group/_index.html",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/notes/docs.md",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/config_local.php",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/notes/todo.todo",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/notes/bugs.todo",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/public_html/scripts/admissions.php",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/vagrant/common.sh",
+		"/Users/gschomburg/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/gschomburg/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/system/expressionengine/libraries/addons/Addons_installer.php",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/public_html/images/assets/icon_instagram_120.svg",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/public_html/images/assets/nav_search.svg",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/system/expressionengine/third_party/ig_picpuller/views/index_nonsuperadmin.php",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/public_html/index.php",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/scripts/restore_dev_db.sh",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/public_html/themes/javascript/compressed/jquery/plugins/ee_toggle_all.js",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/system/expressionengine/third_party/structure/language/english/lang.structure.php",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/system/expressionengine/third_party/low_seg2cat/views/ext_settings.php",
+		"/Users/gschomburg/Documents/Jobs/BNSSites/public_html/images/assets/arrow_left.svg"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fastfurious",
+			"OnClientConnected",
+			"Client [",
+			"192.168.51.164",
+			"2:39:",
+			"2:39",
+			"Log: connection",
+			"updateClientCount",
+			"no free events for message",
+			"Warning: received system packet belongs to wrong session",
+			"Log: connection ",
+			"Connected to server",
+			"Log: cannot connect after 10 attempt address",
+			"Log: connection {1} has been disconnected by timeout; address {::ffff:192.168.51.245:25258}\nUNet Client Disconnect Error: Timeout",
+			"OnDisconnected",
+			" OnConnectionError",
+			"OnConnectionError",
+			"OnClientConnectedhostId",
+			"&singlequote;",
+			"don&singlequote;t",
+			"’",
+			"layer4",
+			"font-family: \"adobe-caslon-pro\",serif;",
+			"gold",
+			" #b5a16c",
+			"#b5a16c",
+			"src",
+			"cle",
+			"column-width",
+			"<li>",
+			"jade",
+			"language",
+			"pretty-hr",
+			"1",
+			"canvas",
+			"ca",
+			"canvas",
+			"geom",
+			"+=",
+			"origPosition",
+			"float(",
+			"float",
+			".x",
+			"x",
+			"background",
+			"modelNotAPenis",
+			"modelVertices",
+			"obj",
+			"triangleShape",
+			"rectShape",
+			"div",
+			"@standard-block-margin-bottom *2",
+			".social",
+			".social-link",
+			"social-icon-box",
+			"faceboo",
+			"socia",
+			"project",
+			"poster",
+			"caption",
+			"bleed-black",
+			"project",
+			"title",
+			".standard-block-margin-bottom",
+			"project",
+			"social-icon-bo",
+			"news",
+			"scroll",
+			"space",
+			"prevetDefault",
+			"form",
+			"mce",
+			"jobs",
+			"j",
+			"jobs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bookofspells.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"projects",
+				"templates/default_site/projects.group/_detail.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 343.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

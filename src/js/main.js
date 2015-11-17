@@ -19,13 +19,13 @@ $(function() {
 
 	view.onFrame = function(event) {
 		// paper.project.clear();
-		// generate();
-		var paths = project.getItems({class: Path});
-		// console.log(paths);
-		for (var p=0; p<paths.length; p++){
-			paths[p].rotate(paths[p].rSpd);
+		// // generate();
+		// var paths = project.getItems({class: Path});
+		// // console.log(paths);
+		// for (var p=0; p<paths.length; p++){
+		// 	paths[p].rotate(paths[p].rSpd);
 
-		}
+		// }
 	}
 	var tool = new Tool();
 	
@@ -68,7 +68,7 @@ function generate(){
 		// previous = p;
 
 		// p.fillColor = new Color(Math.random(), Math.random(), Math.random());
-		p.simplify(.5);
+		// p.simplify(.5);
 
 		p.rSpd = randomRange(-1, 1);
 		
